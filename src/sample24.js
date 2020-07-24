@@ -10,7 +10,7 @@ class Sample24 extends Component {
                 <div key = {data.id} >
                     <ol> 
             <li> {data.name}</li>
-            <li> {data.age}</li>
+            <li> {data.gender}</li>
             <li> {data.gender}</li>
             <li> <img src={data.image} alt={data.name} width="60px" /> </li>
                     </ol>
