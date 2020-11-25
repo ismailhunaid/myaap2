@@ -6,9 +6,9 @@ class Sample5 extends Component {
 
         this.state = {
             profile:[
-                {name:'ismail', age:30 , qualification:'Haafiz al Quran' },
-                {name:'ibrahim', age:28 , qualification:'Photographer'},
-                {name:'abezer',  age:35, qualification:'software developer'},
+                {name:'huzefa saifuddin', age:30 , qualification:'Haafiz al Quran' },
+                {name:' murtaza bhinder', age:28 , qualification:'Photographer'},
+                {name:' mustafa fakhruddin ',  age:35, qualification:'software developer'},
 
             ]
         }
